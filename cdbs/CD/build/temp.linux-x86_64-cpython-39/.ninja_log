@@ -1,0 +1,4 @@
+# ninja log v5
+1	11602	1681909914863655064	/public/sdc/zhang_20/my_home/research/NeuroGF/cdbs/CD/build/temp.linux-x86_64-cpython-39/chamferdist/knn_cpu.o	c1a26db834d717f5
+0	12510	1681909915771659868	/public/sdc/zhang_20/my_home/research/NeuroGF/cdbs/CD/build/temp.linux-x86_64-cpython-39/chamferdist/ext.o	b51f448ae9cb205e
+0	45653	1681909948879832648	/public/sdc/zhang_20/my_home/research/NeuroGF/cdbs/CD/build/temp.linux-x86_64-cpython-39/chamferdist/knn.o	673abb566e69a50e
