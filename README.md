@@ -6,7 +6,7 @@ This code has been tested with Python 3.9, PyTorch 1.10.1, CUDA 11.1 on Ubuntu 2
 
 <p align="center"> <img src="https://github.com/keeganhk/NeuroGF/blob/master/imgs/example.png" width="70%"> </p>
 
-<p align="center"> <img src="https://github.com/keeganhk/NeuroGF/blob/master/imgs/neurogf_ovft.png" width="62.5%"> </p>
+<p align="center"> <img src="https://github.com/keeganhk/NeuroGF/blob/master/imgs/neurogf_ovft.png" width="65%"> </p>
 
 ### Instruction
 
