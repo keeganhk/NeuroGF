@@ -4,6 +4,8 @@ This is the official implementation of **[[NeuroGF](https://arxiv.org/pdf/2306.0
 
 <p align="center"> <img src="https://github.com/keeganhk/NeuroGF/blob/master/imgs/neurogf_ovft.png" width="62.5%"> </p>
 
+<p align="center"> <img src="https://github.com/keeganhk/NeuroGF/blob/master/imgs/example.png" width="70%"> </p>
+
 
 ### Instruction
 
