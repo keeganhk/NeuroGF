@@ -9,7 +9,7 @@ This is the official implementation of **[[NeuroGF](https://arxiv.org/pdf/2306.0
 
 ### Instruction
 
-- Download our prepared datasets of [Models](https://drive.google.com/file/d/1MLYH0C6YqVAH7XLDT0GmFAi6WF6ZWxRK/view?usp=sharing) and [ShapeNet13](). The two Zip files should be decompressed and put in the ```data``` folder.
+- Download our prepared datasets of [Models](https://drive.google.com/file/d/1MLYH0C6YqVAH7XLDT0GmFAi6WF6ZWxRK/view?usp=sharing) and [ShapeNet13](https://drive.google.com/file/d/1W2I18gR4KDz19_DGYL7bxpADaZRk00wv/view?usp=sharing). The two Zip files should be decompressed and put in the ```data``` folder.
 
   -- (1) The dataset of ```data/Models``` contains ground-truth training and testing data of 10 popular and commonly-used 3D shape models, including: *armadillo*, *bimba*, *bucket*, *bunny*, *cow*, *dragon*, *fandisk*, *heptoroid*, *maxplanck*, *nail*.
   
