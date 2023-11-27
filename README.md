@@ -1,11 +1,12 @@
 # NeuroGF: A Neural Representation for Fast Geodesic Distance and Path Queries
 
-This is the official implementation of **[[NeuroGF](https://arxiv.org/pdf/2306.00658.pdf)] (NeurIPS 2023)**, a learning-based framework for deep implicit representation and prediction of point-to-point geodesic distances and shortest paths of 3D shape models. This code has been tested with Python 3.9, PyTorch 1.10.1, CUDA 11.1 on Ubuntu 20.04.
+This is the official implementation of **[[NeuroGF](https://arxiv.org/pdf/2306.00658.pdf)] (NeurIPS 2023)**, a learning-based framework for deep implicit representation and prediction of point-to-point geodesic distances and shortest paths of 3D shape models.
 
-<p align="center"> <img src="https://github.com/keeganhk/NeuroGF/blob/master/imgs/neurogf_ovft.png" width="62.5%"> </p>
+This code has been tested with Python 3.9, PyTorch 1.10.1, CUDA 11.1 on Ubuntu 20.04.
 
 <p align="center"> <img src="https://github.com/keeganhk/NeuroGF/blob/master/imgs/example.png" width="70%"> </p>
 
+<p align="center"> <img src="https://github.com/keeganhk/NeuroGF/blob/master/imgs/neurogf_ovft.png" width="62.5%"> </p>
 
 ### Instruction
 
