@@ -10,7 +10,7 @@ This code has been tested with Python 3.9, PyTorch 1.10.1, CUDA 11.1 on Ubuntu 2
 
 ### Instruction
 
-- Download our prepared datasets of [Models](https://pan.baidu.com/s/1s6HLUq_br1L7hCZ-mcuOlg?pwd=7ue0) (7ue0) and [ShapeNet13](https://pan.baidu.com/s/1JWAzgDM1lzGJOVdHHfOqfQ?pwd=ywax) (ywax). The two Zip files should be decompressed and put in the ```data``` folder.
+- Download our prepared datasets of [Models](https://pan.baidu.com/s/11c60YKgPP7KyVbw05lOcyw?pwd=dwde) (dwde) and [ShapeNet13](https://pan.baidu.com/s/10j8wvy5fCLVrgtnPqAns2Q?pwd=7e4u) (7e4u). The two Zip files should be decompressed and put in the ```data``` folder.
 
   -- (1) The dataset of ```data/Models``` contains ground-truth training and testing data of 10 popular and commonly-used 3D shape models, including: *armadillo*, *bimba*, *bucket*, *bunny*, *cow*, *dragon*, *fandisk*, *heptoroid*, *maxplanck*, *nail*.
   
